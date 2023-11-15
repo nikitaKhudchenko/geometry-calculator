@@ -1,3 +1,4 @@
+# geometry-calculator
 # Работа с проектом в IntelliJ IDEA
 
 ## Запуск тестов локально
